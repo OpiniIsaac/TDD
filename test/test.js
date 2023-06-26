@@ -1,5 +1,5 @@
 const { assert } = require('chai');
-const multiply = require('./mutiply');
+const multiply = require('../mutiply');
 
 describe('Multiply', () => {
   it('first cylces test', () => {
